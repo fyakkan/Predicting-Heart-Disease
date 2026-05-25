@@ -1,4 +1,4 @@
-Heart Disease (s6e2) — First-Order Optimizer Comparison Study¶
+Heart Disease (s6e2) — First-Order Optimizer Comparison Study
 Furkan Yakkan — Department of Electrical and Computer Engineering, Abdullah Gul University (AGU), Kayseri, Türkiye.
 
 ECE 567 — Foundations of Optimization for Machine Learning. Instructor: Dr. Khaled Hejja.
